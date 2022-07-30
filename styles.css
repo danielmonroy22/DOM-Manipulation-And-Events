@@ -1,0 +1,26 @@
+button {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: yellow;
+    color: gray;
+    font-size: 3rem;
+    margin: 20px auto;
+
+}
+
+#btn {
+    background-color: blue;
+    color: white;
+}
+
+#btn1 {
+    background-color: red;
+    color: white;
+}
+
+#btn2 {
+    background-color: red;
+    color: white;
+}
